@@ -2,12 +2,17 @@
 -----------------------------------
 
 Developers: Sahan Karunaratne, Kasun Amarasinghe & Dharani Pinsarani.
+
 Type: Group Project.
+
+Year: 2022
 
 Languages & Technologies:
 Java, (JSP) Java Server Page, Servlet, PayPal (API)...
 
+
 Functionalities.
+
 01. User can visit the website and view the basic details of the hotel. (Ex: Location, Room charges, Discounts... etc.).
 02. User can create an account.
 03. User can login to the account in order to book a room.
