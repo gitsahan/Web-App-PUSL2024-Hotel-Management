@@ -5,7 +5,7 @@ Developers: Sahan Karunaratne, Kasun Amarasinghe & Dharani Pinsarani.
 
 Type: Group Project.
 
-Year: 2022
+Year: 2022.
 
 Languages & Technologies:
 Java, (JSP) Java Server Page, Servlet, PayPal (API)...
